@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joseph clton Abiodun</h1>
+<h1 align="center">Hi 👋, I'm Joseph clyton Abiodun</h1>
 <h3 align="center">A passionate front/backend developer from the UK</h3>
 
 - 🔭 I’m currently working on **Serverless Job Tracker with AWS**
